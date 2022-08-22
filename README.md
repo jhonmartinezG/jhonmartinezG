@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonmartinezG
 - 👀 I’m interested in Automation and Frontend Development 
-- 🌱 I’m currently learning Testing Automated with Java and a little be of React.js environment 
+- 🌱 Projects and repositories created in react and some for automation testing
 
 
 <!---
